@@ -1,0 +1,8 @@
+1. Gömb (sphere) létrehozása, elmozgatása, skálázása, szegmensek számának növelése
+2. Gömbnek textúra betöltése - hold szerű bolygó kész
+3. Bolygónak gyűrű (torus) létrehozása, elmozgatása, skálázása, szegmensek számának növelése
+4. Torusnak textúra betöltése - bolygó gyűrűje kész
+5. Henger (cylinder) létrehozása, elmozgatása, skálázása
+6. Hengernek textúra betöltése
+7. Henger átalakítása bevel és smooth segítségével, majd spin (szépen körbe legyenek a lámpás szerű objektumok) - lámpások kész
+
