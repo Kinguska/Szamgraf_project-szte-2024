@@ -1,0 +1,1 @@
+# Szamgraf_project-szte-2024
